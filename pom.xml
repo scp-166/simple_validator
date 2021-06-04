@@ -9,7 +9,7 @@
     <version>1.0</version>
 
     <properties>
-        <hibernate.validator.version>6.1.0.Final</hibernate.validator.version>
+        <hibernate.validator.version>6.1.5.Final</hibernate.validator.version>
         <spring.version>5.2.0.RELEASE</spring.version>
     </properties>
 
